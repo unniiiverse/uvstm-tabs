@@ -1,0 +1,9 @@
+/* 
+    UVSTM-tabs
+    
+    Version: uvstm-tabs @1.1.0
+    Author: Mykhailo Unniiiverse (unniiiverse.github.io)
+    License: MIT
+*/
+
+.uvstm-tabs-control_item{cursor:pointer}.uvstm-tabs-content_item{transition:.3s ease-in-out;opacity:0;position:absolute;visibility:hidden}.uvstm-tabs-content_item--active{opacity:1;position:relative;visibility:visible}html{background-color:#121212}body{display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:100%}.container{padding:0 24px}.unniiiverse-showcaseUI-section{position:absolute;text-align:center}.unniiiverse-showcaseUI-section--top{top:80px}.unniiiverse-showcaseUI-section--top h2{margin-bottom:8px}.unniiiverse-showcaseUI-section--top a{font-size:16px}.unniiiverse-showcaseUI-section--bottom{bottom:80px}.unniiiverse-showcaseUI-section--bottom p{font-size:16px}.unniiiverse-showcaseUI-module_text{color:#fff;font-size:24px;font-family:"ProximaNova"}.unniiiverse-showcaseUI-module_bold{font-weight:700}.unniiiverse-showcaseUI-module_link{font-weight:600;color:#6c5ce7 !important;transition:.2s ease-in-out}.unniiiverse-showcaseUI-module_link:hover{color:rgba(108,92,231,.7) !important}.uvstm-tabs-control{display:flex}.uvstm-tabs-control_item{transition:.1s ease-in-out;padding:8px 24px;background-color:#fff}.uvstm-tabs-control_item p{transition:.1s ease-in-out;color:#000;font-family:"Proxima Nova",sans-serif;font-size:24px;font-weight:700}.uvstm-tabs-control_item--active,.uvstm-tabs-control_item:hover{background-color:#4834d4}.uvstm-tabs-control_item--active p,.uvstm-tabs-control_item:hover p{color:#fff}.uvstm-tabs-content{padding:4px 8px 16px;border:1px solid #fff}.uvstm-tabs-content_item{width:363px}.uvstm-tabs-content_item p{color:#fff}
